@@ -4,7 +4,7 @@ Explore spacewrecks without fear.
 This cheat gives you **full awareness**, **enemy tracking**, and **life-saving tools** in **Lethal Company**.
 
 🛰 Stay alive. Grab loot. Escape smarter.
-
+[![image.png](https://i.postimg.cc/kXRtVCmH/image.png)](https://postimg.cc/1fPzTL40)
 ---
 
 ## 🚀 Features
